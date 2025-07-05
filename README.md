@@ -17,5 +17,5 @@
 
 ---
 ## 📗 User Manual 
-
+[USER MANUAL.md](UserManual.md)
 ---
